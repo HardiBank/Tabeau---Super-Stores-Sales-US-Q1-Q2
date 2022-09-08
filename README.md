@@ -1,1 +1,1 @@
-# Tabeau---Capestone--Super-Stores-Sales-US-Q1-Q2
+# Tableau---Capstone--Project--Super-Stores-Sales-US-Q1-Q2
